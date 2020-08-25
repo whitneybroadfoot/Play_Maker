@@ -1,7 +1,15 @@
 .intros {
-    background-color: aquamarine;
+    color: #f6f6ed;
+    background-color: #598965;
 }
 
 body {
-    background-color: lightgray;
+    background-color: #d1edbd;
 }
+
+.footer {
+    width: 100%;
+    background-color: #598965;
+    color: #f6f6ed;
+    text-align: center;
+ }
